@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "https://vlad0k.github.io/pdf-mapping-pages/static/css/main.073c9b0a.css",
-    "main.js": "https://vlad0k.github.io/pdf-mapping-pages/static/js/main.83ff1d66.js",
+    "main.js": "https://vlad0k.github.io/pdf-mapping-pages/static/js/main.42c5154b.js",
     "index.html": "https://vlad0k.github.io/pdf-mapping-pages/index.html",
     "main.073c9b0a.css.map": "https://vlad0k.github.io/pdf-mapping-pages/static/css/main.073c9b0a.css.map",
-    "main.83ff1d66.js.map": "https://vlad0k.github.io/pdf-mapping-pages/static/js/main.83ff1d66.js.map"
+    "main.42c5154b.js.map": "https://vlad0k.github.io/pdf-mapping-pages/static/js/main.42c5154b.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.83ff1d66.js"
+    "static/js/main.42c5154b.js"
   ]
 }
